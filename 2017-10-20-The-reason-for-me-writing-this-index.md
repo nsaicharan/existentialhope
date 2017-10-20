@@ -3,6 +3,9 @@ title: The reason for me writing this index
 layout: post
 author: allisonduettmann
 permalink: /the-reason-for-me-writing-this-index/
+tags:
+- pizza
+- tim
 source-id: 1-H2hDKiuxnPULIv33Rn0fixZb-YXp0HyeAH0KD2aBNo
 published: true
 ---
