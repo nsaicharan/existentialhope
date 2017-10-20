@@ -14,7 +14,7 @@ published: true
 
 ## Vision
 
-* [The reason for me writing this index](https://docs.google.com/document/d/1-H2hDKiuxnPULIv33Rn0fixZb-YXp0HyeAH0KD2aBNo/edit)
+* [The reason for me writing this index](https://github.com/AllisonDuettmann/existentialhope/blob/master/2017-10-20-The-reason-for-me-writing-this-index.md)
 
 * [Existential Angst & Existential Hope ](https://docs.google.com/document/d/1R_8EILI3OSVijlavnafaM9nYIyv977SZVJDDDfsXk6M/edit#)
 
