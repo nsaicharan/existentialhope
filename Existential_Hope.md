@@ -14,7 +14,7 @@ published: true
 
 ## Vision
 
-* [The reason for me writing this index](https://docs.google.com/document/d/1-H2hDKiuxnPULIv33Rn0fixZb-YXp0HyeAH0KD2aBNo/edit)
+* [The reason for me writing this index](Update/Create 2017-10-20-The-reason-for-me-writing-this-index.md)
 
 * [Please contribute!](https://docs.google.com/document/d/1pH0FEYK667oM7GS6ATTE5-4JdAs_I3yJiAqRhQJmeQ4/edit#heading=h.ltlu52wy7wx3)
 
