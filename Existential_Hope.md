@@ -20,7 +20,7 @@ published: true
 
 * [Existential Angst & Existential Hope ](https://github.com/AllisonDuettmann/existentialhope/blob/master/2017-10-26-Existential-Angst-&-Existential-Hope.md)
 
-* [Big History & Big Future ](https://docs.google.com/document/d/1NdlBbOodrBCL9KB2WFFMfIGQaYV3vvA6wD4qh3u7pgc/edit#heading=h.s1jpdy2u42op)
+* [Big History & Big Future ](https://github.com/AllisonDuettmann/existentialhope/blob/master/2017-10-26-Big-History-&-Big-Future.md)
 
 * [Individual Transhumanism & Collective Cosmism ](https://docs.google.com/document/d/1fU9Ou9ClD_4AyJ2b41OIl0-3SRdjTO7igU1PLWr6-Vs/edit)
 
