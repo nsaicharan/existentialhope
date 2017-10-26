@@ -40,27 +40,11 @@ published: true
 
 *Who are We? *
 
-*13.7 billion years ago We were crammed into a single point.*
-
-*10 billion years ago We were stars exploding into existence.*
-
-*3 billion years ago We were bacteria. We were alive.*
-
-*1,000 years ago We were all God's creations. *
-
-*100 years ago We had proof We're one species, descended from apes. *
-
-*60 years ago We declared We're all human, entitled to the same human rights.*
-
-*Today... We could tell a bigger story. We could create an identity that moves us. That takes us places.*
+*13.7 billion years ago We were crammed into a single point. 10 billion years ago We were stars exploding into existence. 3 billion years ago We were bacteria. We were alive. 1,000 years ago We were all God's creations.  100 years ago We had proof We’re one species, descended from apes.  60 years ago We declared We’re all human, entitled to the same human rights. Today... We could tell a bigger story. We could create an identity that moves us. That takes us places.*
 
 *And…*
 
-*50 years from now We could be Martians. *
-
-*1 billion years from now We could be Andromedans, living off new stars. *
-
-*Until we eventually become  the creative force of our Universe. *
+*50 years from now We could be Martians. 1 billion years from now We could be Andromedans, living off new stars.  Until we eventually become  the creative force of our Universe. *
 
 * Letter From Utopia - as [Youtube video](https://www.youtube.com/watch?v=qCAWCuHI1YI) and [paper](https://nickbostrom.com/utopia.html) by Nick Bostrom. Imaginary letter to humanity from potential future being living in Utopia, who urges us to bring them into existence. 
 
