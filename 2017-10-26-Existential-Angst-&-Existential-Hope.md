@@ -106,6 +106,8 @@ published: true
 
 * [East Bay Futurists](https://www.meetup.com/preview/East-Bay-Futurists) meetup group. - Bay Area Meetup organized by Scott Jackisch
 
+* [Awesome Foundation ](http://www.awesomefoundation.org/en)- Have a crazy brilliant idea that needs funding? We award $1,000 grants every month. It couldn't be simpler! Your idea is yours alone. We don't want a stake in it. We just want to help you make it happen!
+
 * Extropy Institute - join mailing list
 
 * Long-term world-improvement - join mailing list
