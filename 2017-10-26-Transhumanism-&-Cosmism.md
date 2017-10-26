@@ -26,7 +26,7 @@ published: true
 
 * [The Technological Singularity](https://www.frc.ri.cmu.edu/~hpm/book98/com.ch1/vinge.singularity.html) - Verner Vinge. Older piece introducing the concept of Singularity
 
-* [Technopoly](http://www.collier.sts.vt.edu/1504/pdfs/technopoly-neil-postman.pdf) - book by Neil Postman. 
+* [Technopoly](http://www.collier.sts.vt.edu/1504/pdfs/technopoly-neil-postman.pdf) - book by Neil Postman. chronicles our transformation into a Technopoly: a society that no longer merely uses technology as a support system but instead is shaped by it--with radical consequences for the meanings of politics, art, education, intelligence, and truth.
 
 * [Afrofuturism](https://dj.dancecult.net/index.php/dancecult/article/view/392/395) - e-book by Ytasha Womack. In this hip, accessible primer to the music, literature, and art of Afrofuturism, author Ytasha Womack introduces readers to the burgeoning community of artists creating Afrofuturist works, the innovators from the past, and the wide range of subjects they explore
 
@@ -74,7 +74,7 @@ published: true
 
 ### Do
 
-* [Cosmism.com](http://cosmism.com/default.html)
+* [Cosmism.com](http://cosmism.com/default.html) - website on everything cosmism
 
 * [Turing Church](https://turingchurch.net/) - a little wooooey, but some good posts
 
