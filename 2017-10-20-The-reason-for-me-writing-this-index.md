@@ -33,7 +33,7 @@ Take Nick Bostrom's Fable of The Dragon Tyrant:
 
 *"Stories about aging have traditionally focused on the need for graceful accommodation. The recommended solution to diminishing vigor and impending death was resignation coupled with an effort to achieve closure in practical affairs and personal relationships. Given that nothing could be done to prevent or retard aging, this focus made sense. Rather than fretting about the inevitable, one could aim for peace of mind. Today we face a different situation. While we still lack effective and acceptable means for slowing the aging process, we can identify research directions that might lead to the development of such means in the foreseeable future. “Deathist" stories and ideologies, which counsel passive acceptance, are no longer harmless sources of consolation. They are fatal barriers to urgently needed action.” *
 
-* *Nick Bostrom, The Fable of The Dragon Tyrant*
+*Nick Bostrom, The Fable of The Dragon Tyrant*
 
 Thanks to writings like this my personal Existential Angst made way for an optimistic problem-solving attitude: 
 
@@ -49,7 +49,7 @@ As Nietzsche puts it:
 
  *"In some remote corner of the universe, poured out and glittering in innumerable solar systems, there once was a star on which clever animals invented knowledge. That was the haughtiest and most mendacious minute of "world history"- yet only a minute. After nature had drawn a few breaths the star grew cold, and the clever animals had to die. One might invent such a fable ans still not have illustrated how wretched, how shadowy and flighty the human intellect appears in nature. There have been eternities when it did not exist, and when it is done for again, nothing will have happened."* 
 
-* *Nietzsche, On Truth and Lies*
+*Nietzsche, On Truth and Lies*
 
 Given all current existential risks (risks that could wipe out any potential for a positive flourishing of humanity,) this future seems scarily likely: Risks from AI, and Biotech become ever more real, and even Nuclear risks are painfully being brought back onto the radar. 
 
@@ -75,7 +75,7 @@ Existential Hope are visions like this one: In this letter, Bostrom imagines a f
 
 *Human life, at its best, is fantastic.  I'm asking you to create something even greater.  Life that is truly humane. *
 
-* *Nick Bostrom, Letter from Utopia*
+*Nick Bostrom, Letter from Utopia*
 
 This is just one of many possible positive visions. 
 
