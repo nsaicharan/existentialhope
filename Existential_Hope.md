@@ -16,7 +16,7 @@ published: true
 
 * [The reason for me writing this index](https://github.com/AllisonDuettmann/existentialhope/blob/master/2017-10-20-The-reason-for-me-writing-this-index.md)
 
-* [Please contribute!](https://docs.google.com/document/d/1pH0FEYK667oM7GS6ATTE5-4JdAs_I3yJiAqRhQJmeQ4/edit#heading=h.ltlu52wy7wx3)
+* [Please contribute!](https://github.com/AllisonDuettmann/existentialhope/blob/master/2017-10-26-Please-contribute!.md)
 
 * [Existential Angst & Existential Hope ](https://docs.google.com/document/d/1R_8EILI3OSVijlavnafaM9nYIyv977SZVJDDDfsXk6M/edit#)
 
