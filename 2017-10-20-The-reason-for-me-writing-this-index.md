@@ -19,7 +19,7 @@ For a while I turned to philosophy in the hope to find reconciliation with death
 
 *"Man stands face to face with the irrational. He feels within him his longing for happiness and for meaning. The absurdity of life is born of this confrontation between the human need and the unreasonable silence of the world."  *
 
-*[Albert Camu*s](https://www.goodreads.com/author/show/957894.Albert_Camus)*, **[The Myth of Sisyphus and Other Essay*s](https://www.goodreads.com/work/quotes/855563)
+*Albert Camus, The Myth of Sisyphus and Other Essays*
 
 Recommendations in these texts were usually along the lines of "Continue to live in the face of meaninglessness" or “accept the absurdity of life but live against it anyways”.
 
@@ -31,9 +31,7 @@ Luckily, via philosophy I eventually discovered individual transhumanist philoso
 
 Take Nick Bostrom's Fable of The Dragon Tyrant: 
 
-*"Stories about aging have traditionally focused on the need for graceful accommodation. The recommended solution to diminishing vigor and impending death was resignation coupled with an effort to achieve closure in practical affairs and personal relationships. Given that nothing could be done to prevent or retard aging, this focus made sense. Rather than fretting about the inevitable, one could aim for peace of mind. Today we face a different situation. While we still lack effective and acceptable means for slowing the aging process, we can identify research directions that might lead to the development of such means in the foreseeable future. “Deathist" stories and ideologies, which counsel passive acceptance, are no longer harmless sources of consolation. They are fatal barriers to urgently needed action.” *
-
-*Nick Bostrom, The Fable of The Dragon Tyrant*
+*"Stories about aging have traditionally focused on the need for graceful accommodation. The recommended solution to diminishing vigor and impending death was resignation coupled with an effort to achieve closure in practical affairs and personal relationships. Given that nothing could be done to prevent or retard aging, this focus made sense. Rather than fretting about the inevitable, one could aim for peace of mind. Today we face a different situation. While we still lack effective and acceptable means for slowing the aging process, we can identify research directions that might lead to the development of such means in the foreseeable future. “Deathist" stories and ideologies, which counsel passive acceptance, are no longer harmless sources of consolation. They are fatal barriers to urgently needed action.”  Nick Bostrom, The Fable of The Dragon Tyrant*
 
 Thanks to writings like this my personal Existential Angst made way for an optimistic problem-solving attitude: 
 
@@ -73,9 +71,7 @@ Existential Hope are visions like this one: In this letter, Bostrom imagines a f
 
 *We love life here every instant.  Every second is so good that it would blow your mind had its amperage not been previously increased.  My contemporaries and I bear witness, and we are requesting your aid.  Please, help us come into existence!  Please, join us!  Whether this tremendous possibility becomes a reality depends on your actions.  If your empathy can perceive at least the outlines of the vision I am describing, then your ingenuity will find a way to make it real.*
 
-*Human life, at its best, is fantastic.  I'm asking you to create something even greater.  Life that is truly humane. *
-
-*Nick Bostrom, Letter from Utopia*
+*Human life, at its best, is fantastic.  I'm asking you to create something even greater.  Life that is truly humane. Nick Bostrom, Letter from Utopia*
 
 This is just one of many possible positive visions. 
 
