@@ -32,6 +32,8 @@ published: true
 
 * [Salt - The History of Civilization Through The Eyes of Salt](https://www.amazon.com/Salt-World-History-Mark-Kurlansky/dp/0142001619) - book by Mark Kurlansky. The only rock we eat, salt has shaped civilization from the very beginning, and its story is a glittering, often surprising part of the history of humankind. 
 
+* [Cosmos & Culture ](https://www.goodreads.com/book/show/8336862-cosmos-culture)- book by Steven Dick, Mark Lupisella. Examines past and possible futures of humanity in the cosmos through the lense of culture
+
 ### Listen & Watch
 
 * [The History of Our World in 18 Minutes ](https://www.ted.com/talks/david_christian_big_history)- TED talk by David Christian
