@@ -14,7 +14,9 @@ published: true
 
 ## Vision
 
-* [The reason for me writing this index](https://github.com/AllisonDuettmann/existentialhope/blob/master/2017-10-20-The-reason-for-me-writing-this-index.md)
+* [The reason for me writing this index](https://docs.google.com/document/d/1-H2hDKiuxnPULIv33Rn0fixZb-YXp0HyeAH0KD2aBNo/edit)
+
+* [Please contribute!](https://docs.google.com/document/d/1pH0FEYK667oM7GS6ATTE5-4JdAs_I3yJiAqRhQJmeQ4/edit#heading=h.ltlu52wy7wx3)
 
 * [Existential Angst & Existential Hope ](https://docs.google.com/document/d/1R_8EILI3OSVijlavnafaM9nYIyv977SZVJDDDfsXk6M/edit#)
 
@@ -38,7 +40,7 @@ published: true
 
 * [Space & Cosmology](https://docs.google.com/document/d/1_0_w68obz-pM7Q6sAdc-VntMi3EDW1eDscwEI1sdnok/edit#)
 
-* Environment & Energy
+* [Environment & Energy](https://docs.google.com/document/d/1KeLWpbl4MdDfvGD9qxfghAGsR2LEluG30EIpzP6jaiM/edit)
 
 ## Tools
 
@@ -55,6 +57,8 @@ published: true
 * [Predicting & Tracking](https://docs.google.com/document/d/1Z_3zcOlWBszSLGEfJ5hcCWsJPx5JvI31hnYyMt12e3I/edit)
 
 * [Communication & Cooperation](https://docs.google.com/document/d/1BAAmobrl_iBzD-dzs5sXXjOQBjSDQBsjyfNSC-2nnOs/edit)
+
+* [Increase Interest & Innovation](https://docs.google.com/document/d/13tHnz7uQgKYPSIxRvRlU1MJ0kGsGI1rYDCJvgc5Qflg/edit)
 
 * [Questions](https://docs.google.com/document/d/12IrSE0uNhPfaR0HoW2w64n2AKBX5Cs8BDUeAtu0J0LY/edit)
 
