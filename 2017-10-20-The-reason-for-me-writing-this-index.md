@@ -9,9 +9,7 @@ tags:
 source-id: 1-H2hDKiuxnPULIv33Rn0fixZb-YXp0HyeAH0KD2aBNo
 published: true
 ---
-**I want to do to Existential Risk, what Transhumanism did for my Existential Angst - shifting from attitude of fatalism to optimistic problem solving. **
-
-**What do I mean? Let's start from beginning:**
+*With this index of Existential Hope **I want to do to Existential Risk, what Transhumanism did for my Existential Angst: Shifting the focus from fatalism to optimistic problem solving. *
 
 **Existential Angst**
 
@@ -25,7 +23,7 @@ For a while I turned to philosophy in the hope to find reconciliation with death
 
 Recommendations in these texts were usually along the lines of "Continue to live in the face of meaninglessness" or “accept the absurdity of life but live against it anyways”.
 
- In all of these writings, death was seen as a given, the only changeable factor was one's attitude to it. 
+In all of these writings, death was seen as a given, the only changeable factor was one's attitude to it. 
 
 **Transhumanism**
 
@@ -39,11 +37,7 @@ Take Nick Bostrom's Fable of The Dragon Tyrant:
 
 Thanks to writings like this my personal Existential Angst made way for an optimistic problem-solving attitude: 
 
-Fatalistic recapitulation before death was swapped out for seeing death as arbitrary barrier to a potentially much grander life. 
-
-Seeing barriers as barriers allows one to take steps to move them away; For me this meant so far signing up to cryonics, and cryogenically preserving some of my stem cells. 
-
-Calorie restriction doesn;t work so well here in the US. 
+Fatalistic recapitulation before death was swapped out for seeing death as arbitrary barrier to a potentially much grander life.  Seeing barriers as barriers allows one to take steps to move them away; For me this meant so far signing up to cryonics, and cryogenically preserving some of my stem cells. Calorie restriction doesn't work so well here in the US. 
 
 Regardless of whether this will be successful or not, the attitude shift revealed another layer of the problem: 
 
@@ -55,7 +49,7 @@ As Nietzsche puts it:
 
  *"In some remote corner of the universe, poured out and glittering in innumerable solar systems, there once was a star on which clever animals invented knowledge. That was the haughtiest and most mendacious minute of "world history"- yet only a minute. After nature had drawn a few breaths the star grew cold, and the clever animals had to die. One might invent such a fable ans still not have illustrated how wretched, how shadowy and flighty the human intellect appears in nature. There have been eternities when it did not exist, and when it is done for again, nothing will have happened."* 
 
-* Nietzsche, On Truth and Lies
+* *Nietzsche, On Truth and Lies*
 
 Given all current existential risks (risks that could wipe out any potential for a positive flourishing of humanity,) this future seems scarily likely: Risks from AI, and Biotech become ever more real, and even Nuclear risks are painfully being brought back onto the radar. 
 
@@ -75,7 +69,7 @@ Existential Hope are visions like this one: In this letter, Bostrom imagines a f
 
 *My consciousness is wide and deep, my life long.  I have read all your authors – and much more.  I have experienced life in many forms and from many angles: jungle and desert, gutter and palace, heath and suburban creek and city back alley.  I have sailed on the high seas of cultures, and swum, and dived.  Quite some marvelous edifice builds up over a million years by the efforts of homunculi.*
 
-*But he whole exceeds the sum of its parts.  What I have is not merely more of what is available to you now.  it is also the complex relationships between these particulars that make up my mind.  There are ideas that can be formed only on top of such a wide experience base.  There are depths that can be fathomed only with such ideas. *
+*But the whole exceeds the sum of its parts.  What I have is not merely more of what is available to you now.  it is also the complex relationships between these particulars that make up my mind.  There are ideas that can be formed only on top of such a wide experience base.  There are depths that can be fathomed only with such ideas. *
 
 *We love life here every instant.  Every second is so good that it would blow your mind had its amperage not been previously increased.  My contemporaries and I bear witness, and we are requesting your aid.  Please, help us come into existence!  Please, join us!  Whether this tremendous possibility becomes a reality depends on your actions.  If your empathy can perceive at least the outlines of the vision I am describing, then your ingenuity will find a way to make it real.*
 
@@ -98,6 +92,8 @@ The Index is divided into three parts:
 * Focus areas: zooms in on the main areas that will be important building blocks of a positive future
 
 * Tools: focuses on meta-tools that individuals or collectives can use to change the focus areas to bring about the vision
+
+**The objection to X-Hope that I came across most often: **
 
 You may think: X-Hope optimizes for the wrong things. What about [Maxipok](http://www.existential-risk.org/concept.pdf)? I.e. rather than optimizing for utopias or eucatastrophes via X-Hope, we should aim for maximizing the probability of an OK outcome. 
 
