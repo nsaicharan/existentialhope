@@ -18,7 +18,7 @@ published: true
 
 * [Please contribute!](https://github.com/AllisonDuettmann/existentialhope/blob/master/2017-10-26-Please-contribute!.md)
 
-* [Existential Angst & Existential Hope ](https://docs.google.com/document/d/1R_8EILI3OSVijlavnafaM9nYIyv977SZVJDDDfsXk6M/edit#)
+* [Existential Angst & Existential Hope ](https://github.com/AllisonDuettmann/existentialhope/blob/master/2017-10-26-Existential-Angst-&-Existential-Hope.md)
 
 * [Big History & Big Future ](https://docs.google.com/document/d/1NdlBbOodrBCL9KB2WFFMfIGQaYV3vvA6wD4qh3u7pgc/edit#heading=h.s1jpdy2u42op)
 
