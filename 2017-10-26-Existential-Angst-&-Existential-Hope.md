@@ -64,9 +64,7 @@ published: true
 
 * Letter From Utopia - as [Youtube video](https://www.youtube.com/watch?v=qCAWCuHI1YI) and [paper](https://nickbostrom.com/utopia.html) by Nick Bostrom. Imaginary letter to humanity from potential future being living in Utopia, who urges us to bring them into existence. 
 
-*We love life here every instant.  Every second is so good that it would blow your mind had its amperage not been previously increased.  My contemporaries and I bear witness, and we are requesting your aid.  Please, help us come into existence!  Please, join us!  Whether this tremendous possibility becomes a reality depends on your actions.  If your empathy can perceive at least the outlines of the vision I am describing, then your ingenuity will find a way to make it real.*
-
-*Human life, at its best, is fantastic.  I'm asking you to create something even greater.  Life that is truly humane*
+*We love life here every instant.  Every second is so good that it would blow your mind had its amperage not been previously increased.  My contemporaries and I bear witness, and we are requesting your aid.  Please, help us come into existence!  Please, join us!  Whether this tremendous possibility becomes a reality depends on your actions.  If your empathy can perceive at least the outlines of the vision I am describing, then your ingenuity will find a way to make it real.Human life, at its best, is fantastic.  I'm asking you to create something even greater.  Life that is truly humane.*
 
 * [Existential Risk and Existential Hope](https://www.fhi.ox.ac.uk/Existential-risk-and-existential-hope.pdf) - paper by Owen Cotton-Barratt, Toby Ord. Introduces the term Existential Hope for the first time. 
 
@@ -122,10 +120,6 @@ published: true
 
 ### Do
 
-* Extropy Institute - join mailing list
-
-* Long-term world-improvement - join mailing list
-
 * [Hieroglyph](http://hieroglyph.asu.edu/book/hieroglyph/) - book, edited by Neil Stephenson. Project that collects optimistic visions for the future and turns them into a book 
 
 * [X-Prize](https://www.xprize.org/) - XPRIZE is a non-profit organization that designs and manages public competitions intended to encourage technological development that could benefit humanity
@@ -133,6 +127,10 @@ published: true
 * [Bay Area Futurists](https://www.meetup.com/de-DE/Futurist/events/231038672/?eventId=231038672&chapter_analytics_code=UA-74728731-1) - Futurist Meetup in the Bay organized by James Norris
 
 * [East Bay Futurists](https://www.meetup.com/preview/East-Bay-Futurists) meetup group. - Bay Area Meetup organized by Scott Jackisch
+
+* Extropy Institute - join mailing list
+
+* Long-term world-improvement - join mailing list
 
 *		*
 
