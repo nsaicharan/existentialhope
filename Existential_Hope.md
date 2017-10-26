@@ -22,7 +22,7 @@ published: true
 
 * [Big History & Big Future ](https://github.com/AllisonDuettmann/existentialhope/blob/master/2017-10-26-Big-History-&-Big-Future.md)
 
-* [Individual Transhumanism & Collective Cosmism ](https://docs.google.com/document/d/1fU9Ou9ClD_4AyJ2b41OIl0-3SRdjTO7igU1PLWr6-Vs/edit)
+* [Individual Transhumanism & Collective Cosmism ](https://github.com/AllisonDuettmann/existentialhope/blob/master/2017-10-26-Transhumanism-&-Cosmism.md)
 
 * [Risks ](https://docs.google.com/document/d/10DhORpdeoLHdygISziFIhZZxLVdwjxT_xFXcQtGDFQ4/edit#heading=h.9phpnxpdkdcp)
 
