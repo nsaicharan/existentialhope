@@ -24,7 +24,7 @@ published: true
 
 * [Individual Transhumanism & Collective Cosmism ](https://github.com/AllisonDuettmann/existentialhope/blob/master/2017-10-26-Transhumanism-&-Cosmism.md)
 
-* [Risks ](https://docs.google.com/document/d/10DhORpdeoLHdygISziFIhZZxLVdwjxT_xFXcQtGDFQ4/edit#heading=h.9phpnxpdkdcp)
+* [Risks ](https://github.com/AllisonDuettmann/existentialhope/blob/master/2017-10-26-Risks.md)
 
 ## Focus areas  
 
