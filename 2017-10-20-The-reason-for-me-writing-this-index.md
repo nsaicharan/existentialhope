@@ -77,17 +77,15 @@ This is just one of many possible positive visions.
 
 To collect others, I created an index of readings that inspire a positive long-term vision for humanity, one with existential hope. Because the list is for people who want to improve the world but don't know where to start, it also includes general readings on focus areas, and a toolkit to act. The difference is that the list begins with readings that lay out a vision of why we should care and where we might be if we overcome the existential problems that we’re all so worried about. The reading list focuses on Utopia, and why it’s neither impossible nor boring. 
 
-The index is really just in its infancy. 
-
-That's why I’m holding this salon tonight to get input on the list thus far and to push further.
+The index is really just in its infancy. That's why I’m holding this salon tonight to get input on the list thus far and to push further.
 
 The Index is divided into three parts:
 
-* Vision: collects readings for positive futures. More inspirational. Answers: why should we care about a positive long-term future?
+1. Vision: collects readings for positive futures. More inspirational. Answers: why should we care about a positive long-term future?
 
-* Focus areas: zooms in on the main areas that will be important building blocks of a positive future
+2. Focus areas: zooms in on the main areas that will be important building blocks of a positive future
 
-* Tools: focuses on meta-tools that individuals or collectives can use to change the focus areas to bring about the vision
+3. Tools: focuses on meta-tools that individuals or collectives can use to change the focus areas to bring about the vision
 
 **The objection to X-Hope that I came across most often: **
 
