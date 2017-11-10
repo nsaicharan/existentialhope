@@ -6,7 +6,7 @@ permalink: /existential-hope/
 source-id: 1ZSLal4QNfL5-0j8B5tCwJ9UoM6UH20Vu4rJz0LTFGHE
 published: true
 ---
-# **X Hope**
+# **X Hope** a.duettmann@foresight.org
 
 ![image alt text]({{ site.url }}/public/fhyf8J2oh5tPfkJvoL3ENg_img_0.jpg)
 
@@ -28,37 +28,37 @@ published: true
 
 ## Focus areas  
 
-* [Science & Technology ](https://docs.google.com/document/d/1o2VqaYBxeJgA1-zFgUbfvFtVj5lc__z8romwsIeISAg/edit#)
+* [Science & Technology ](http://existentialhope.com/science-&-technology-/)
 
-* [AI & Cyberspace](https://docs.google.com/document/d/15maBDKJeG1XwuZVvcUH4WRK_kBUQGFrE1cIUdb44IHw/edit#heading=h.8raa50tvxyju)
+* [AI & Cyberspace](existentialhope.com/ai-&-cyberspace/)
 
-* [Biotechnology & Nanotechnology](https://docs.google.com/document/d/18rsCKfqLI-s5gsZlSDZAaAceE8xg5EZt026bgucOk8I/edit)
+* [Biotechnology & Nanotechnology](existentialhope.com/bio-&-nanotech/)
 
-* [Living Longer, Better & Smarter](https://docs.google.com/document/d/1gyU4NBubq4MQZLbY_gMalW9TsZNWaEloChtDENw97KA/edit#heading=h.2ca21xm8gp5u) 
+* [Living Longer, Better & Smarter](existentialhope.com/living-longer,-better-&-smarter/) 
 
-* [Society & Economics](https://docs.google.com/document/d/12fHCwQc0dHrXypDKQjLFeQKMywOYx3tot6N2_N9GUOU/edit#)
+* [Society & Economics](existentialhope.com/society-&-economics/)
 
-* [Space & Cosmology](https://docs.google.com/document/d/1_0_w68obz-pM7Q6sAdc-VntMi3EDW1eDscwEI1sdnok/edit#)
+* [Space & Cosmology](existentialhope.com/space-&-cosmology/)
 
-* [Environment & Energy](https://docs.google.com/document/d/1KeLWpbl4MdDfvGD9qxfghAGsR2LEluG30EIpzP6jaiM/edit)
+* [Environment & Energy](existentialhope.com/environment-&-energy/)
 
 ## Tools
 
-* [Philosophy & Rationality](https://docs.google.com/document/d/1lwcPUQV3Tte1vVdQEIMtptUBv8Y60yqNw3brEMeSgcI/edit)
+* [Philosophy & Rationality](existentialhope.com/philosophy-&-rationality/)
 
-* [Mind & Meditation](https://docs.google.com/document/d/16lyzHgAaNrWAFz_9XcSFiyTlEEsGVGwj3FR55_TvTnw/edit#)
+* [Mind & Meditation](existentialhope.com/mind-&-meditation/)
 
-* [Human Psychology & Persuasion](https://docs.google.com/document/d/1GuW8ihk31Z1ZFxMKWfB5haFjGw4G-4KSnhKj89uHb6Y/edit#)
+* [Human Psychology & Persuasion](existentialhope.com/psychology-&-persuasion/)
 
-* [Effective Altruism](https://docs.google.com/document/d/1dVmQw5eT6AeQIT9pTK3Eboebv_QwixRAruiESjCgaPI/edit#)
+* [Effective Altruism](existentialhope.com/effective-altruism/)
 
-* [Knowledge & Truth](https://docs.google.com/document/d/1I6AZysoJ7M1HIz4kVvsS0Vq7GM5ffxMds7z3xNTv2hg/edit)
+* [Knowledge & Truth](existentialhope.com/knowledge-&-truth/)
 
-* [Predicting & Tracking](https://docs.google.com/document/d/1Z_3zcOlWBszSLGEfJ5hcCWsJPx5JvI31hnYyMt12e3I/edit)
+* [Predicting & Tracking](existentialhope.com/predicting-&-tracking/)
 
-* [Communication & Cooperation](https://docs.google.com/document/d/1BAAmobrl_iBzD-dzs5sXXjOQBjSDQBsjyfNSC-2nnOs/edit)
+* [Communication & Cooperation](existentialhope.com/communication-&-cooperation/)
 
-* [Increase Interest & Innovation](https://docs.google.com/document/d/13tHnz7uQgKYPSIxRvRlU1MJ0kGsGI1rYDCJvgc5Qflg/edit)
+* [Increase Interest & Innovation](existentialhope.com/increase-interest-&-innovation/)
 
-* [Questions](https://docs.google.com/document/d/12IrSE0uNhPfaR0HoW2w64n2AKBX5Cs8BDUeAtu0J0LY/edit)
+* [Questions](existentialhope.com/questions-/)
 
