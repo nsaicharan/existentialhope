@@ -16,11 +16,11 @@ published: true
 
 * [The reason for me writing this index](http://existentialhope.com/the-reason-for-me-writing-this-index/)
 
-* [Please contribute!](https://github.com/AllisonDuettmann/existentialhope/blob/master/2017-10-26-Please-contribute!.md)
+* [Please contribute!](http://existentialhope.com/please-contribute!/)
 
 * [Existential Angst & Existential Hope ](http://existentialhope.com/existential-angst-&-existential-hope.md)
 
-* [Big History & Big Future ](https://github.com/AllisonDuettmann/existentialhope/blob/master/2017-10-26-Big-History-&-Big-Future.md)
+* [Big History & Big Future ](http://existentialhope.com/big-history-&-big-future/)
 
 * [Individual Transhumanism & Collective Cosmism ](http://existentialhope.com/transhumanism-&-cosmism/)
 
