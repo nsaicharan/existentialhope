@@ -2,7 +2,7 @@
 title: Existential Hope
 layout: post
 author: allisonduettmann
-permalink: /existential-hope/
+permalink: /existentialhope/
 source-id: 1ZSLal4QNfL5-0j8B5tCwJ9UoM6UH20Vu4rJz0LTFGHE
 published: true
 ---
