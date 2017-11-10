@@ -14,7 +14,7 @@ published: true
 
 ## Vision
 
-* [The reason for me writing this index](https://github.com/AllisonDuettmann/existentialhope/blob/master/2017-10-20-The-reason-for-me-writing-this-index.md)
+* [The reason for me writing this index](http://existentialhope.com/the-reason-for-me-writing-this-index/)
 
 * [Please contribute!](https://github.com/AllisonDuettmann/existentialhope/blob/master/2017-10-26-Please-contribute!.md)
 
