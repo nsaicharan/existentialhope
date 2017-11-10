@@ -8,6 +8,8 @@ published: true
 ---
 # **X Hope** 
 
+contribute via [this form](https://goo.gl/forms/RtY9BrFfSt77nRIs1) or contact me at a.duettmann@foresight.org
+
 ![image alt text]({{ site.url }}/public/fhyf8J2oh5tPfkJvoL3ENg_img_0.jpg)
 
 *[Robert McCall The Prologue and the Promis*e](http://www.mccallstudios.com/the-prologue-and-the-promise/)
