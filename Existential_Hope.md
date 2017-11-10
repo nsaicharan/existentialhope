@@ -34,7 +34,7 @@ published: true
 
 * [Biotechnology & Nanotechnology](http://www.existentialhope.com/bio-&-nanotech/)
 
-* [Living Longer, Better & Smarter](http://www.existentialhope.comliving-longer,-better-&-smarter/) 
+* [Living Longer, Better & Smarter](http://www.existentialhope.com/living-longer,-better-&-smarter/) 
 
 * [Society & Economics](http://www.existentialhope.com/society-&-economics/)
 
