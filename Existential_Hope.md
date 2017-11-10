@@ -34,31 +34,31 @@ published: true
 
 * [Biotechnology & Nanotechnology](http://existentialhope.com/bio-&-nanotech/)
 
-* [Living Longer, Better & Smarter](existentialhope.com/living-longer,-better-&-smarter/) 
+* [Living Longer, Better & Smarter](http://existentialhope.comliving-longer,-better-&-smarter/) 
 
-* [Society & Economics](existentialhope.com/society-&-economics/)
+* [Society & Economics](http://existentialhope.com/society-&-economics/)
 
-* [Space & Cosmology](existentialhope.com/space-&-cosmology/)
+* [Space & Cosmology](http://existentialhope.com/space-&-cosmology/)
 
-* [Environment & Energy](existentialhope.com/environment-&-energy/)
+* [Environment & Energy](http://existentialhope.com/environment-&-energy/)
 
 ## Tools
 
-* [Philosophy & Rationality](existentialhope.com/philosophy-&-rationality/)
+* [Philosophy & Rationality](http://existentialhope.com/philosophy-&-rationality/)
 
-* [Mind & Meditation](existentialhope.com/mind-&-meditation/)
+* [Mind & Meditation](http://existentialhope.com/mind-&-meditation/)
 
-* [Human Psychology & Persuasion](existentialhope.com/psychology-&-persuasion/)
+* [Human Psychology & Persuasion](http://existentialhope.com/psychology-&-persuasion/)
 
-* [Effective Altruism](existentialhope.com/effective-altruism/)
+* [Effective Altruism](http://existentialhope.com/effective-altruism/)
 
-* [Knowledge & Truth](existentialhope.com/knowledge-&-truth/)
+* [Knowledge & Truth](http://existentialhope.com/knowledge-&-truth/)
 
-* [Predicting & Tracking](existentialhope.com/predicting-&-tracking/)
+* [Predicting & Tracking](http://existentialhope.com/predicting-&-tracking/)
 
-* [Communication & Cooperation](existentialhope.com/communication-&-cooperation/)
+* [Communication & Cooperation](http://existentialhope.com/communication-&-cooperation/)
 
-* [Increase Interest & Innovation](existentialhope.com/increase-interest-&-innovation/)
+* [Increase Interest & Innovation](http://existentialhope.com/increase-interest-&-innovation/)
 
-* [Questions](existentialhope.com/questions-/)
+* [Questions](http://existentialhope.com/questions-/)
 
