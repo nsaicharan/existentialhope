@@ -15,10 +15,15 @@ One ask: Don't be shy!
 A lot of people are reading the index continuously and that's the way it should be. But I am not an expert by far on any of the topics and I need your help to populate these sections. Some sections are still blank - please change this! 
 
 If you'd like to add one of the many items that are missing. please speak up.
+
 If you'd like to flag an item as inappropriate or unscientific, please speak up. 
+
 If you'd like to become editor for one topic, please speak up. 
+
 If you'd like to nominate someone to become go-to person for one section, please speak up.
+
 If you'd like to help with the website (my skills are poor, as you can tell), please speak up.
+
 If you have any other idea on how to spread existential hope, please speak up. 
 
 You can do all of this via [this form](https://goo.gl/forms/RtY9BrFfSt77nRIs1) or contact me at a.duettmann@foresight.org
