@@ -14,51 +14,51 @@ published: true
 
 ## Vision
 
-* [The reason for me writing this index](http://existentialhope.com/the-reason-for-me-writing-this-index/)
+* [The reason for me writing this index](http://www.existentialhope.com/the-reason-for-me-writing-this-index/)
 
-* [Please contribute!](http://existentialhope.com/please-contribute!/)
+* [Please contribute!](http://www.existentialhope.com/please-contribute!/)
 
-* [Existential Angst & Existential Hope ](http://existentialhope.com/existential-angst-&-existential-hope.md)
+* [Existential Angst & Existential Hope ](http://www.existentialhope.com/existential-angst-&-existential-hope.md)
 
-* [Big History & Big Future ](http://existentialhope.com/big-history-&-big-future/)
+* [Big History & Big Future ](http://www.existentialhope.com/big-history-&-big-future/)
 
-* [Individual Transhumanism & Collective Cosmism ](http://existentialhope.com/transhumanism-&-cosmism/)
+* [Individual Transhumanism & Collective Cosmism ](http://www.existentialhope.com/transhumanism-&-cosmism/)
 
-* [Risks ](http://existentialhope.com/risks/)
+* [Risks ](http://www.existentialhope.com/risks/)
 
 ## Focus areas  
 
-* [Science & Technology ](http://existentialhope.com/science-&-technology-/)
+* [Science & Technology ](http://www.existentialhope.com/science-&-technology-/)
 
-* [AI & Cyberspace](http://existentialhope.com/ai-&-cyberspace/)
+* [AI & Cyberspace](http://www.existentialhope.com/ai-&-cyberspace/)
 
-* [Biotechnology & Nanotechnology](http://existentialhope.com/bio-&-nanotech/)
+* [Biotechnology & Nanotechnology](http://www.existentialhope.com/bio-&-nanotech/)
 
-* [Living Longer, Better & Smarter](http://existentialhope.comliving-longer,-better-&-smarter/) 
+* [Living Longer, Better & Smarter](http://www.existentialhope.comliving-longer,-better-&-smarter/) 
 
-* [Society & Economics](http://existentialhope.com/society-&-economics/)
+* [Society & Economics](http://www.existentialhope.com/society-&-economics/)
 
-* [Space & Cosmology](http://existentialhope.com/space-&-cosmology/)
+* [Space & Cosmology](http://www.existentialhope.com/space-&-cosmology/)
 
-* [Environment & Energy](http://existentialhope.com/environment-&-energy/)
+* [Environment & Energy](http://www.existentialhope.com/environment-&-energy/)
 
 ## Tools
 
-* [Philosophy & Rationality](http://existentialhope.com/philosophy-&-rationality/)
+* [Philosophy & Rationality](http://www.existentialhope.com/philosophy-&-rationality/)
 
-* [Mind & Meditation](http://existentialhope.com/mind-&-meditation/)
+* [Mind & Meditation](http://www.existentialhope.com/mind-&-meditation/)
 
-* [Human Psychology & Persuasion](http://existentialhope.com/psychology-&-persuasion/)
+* [Human Psychology & Persuasion](http://www.existentialhope.com/psychology-&-persuasion/)
 
-* [Effective Altruism](http://existentialhope.com/effective-altruism/)
+* [Effective Altruism](http://www.existentialhope.com/effective-altruism/)
 
-* [Knowledge & Truth](http://existentialhope.com/knowledge-&-truth/)
+* [Knowledge & Truth](http://www.existentialhope.com/knowledge-&-truth/)
 
-* [Predicting & Tracking](http://existentialhope.com/predicting-&-tracking/)
+* [Predicting & Tracking](http://www.existentialhope.com/predicting-&-tracking/)
 
-* [Communication & Cooperation](http://existentialhope.com/communication-&-cooperation/)
+* [Communication & Cooperation](http://www.existentialhope.com/communication-&-cooperation/)
 
-* [Increase Interest & Innovation](http://existentialhope.com/increase-interest-&-innovation/)
+* [Increase Interest & Innovation](http://www.existentialhope.com/increase-interest-&-innovation/)
 
-* [Questions](http://existentialhope.com/questions-/)
+* [Questions](http://www.existentialhope.com/questions-/)
 
