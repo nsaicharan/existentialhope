@@ -18,7 +18,7 @@ published: true
 
 * [Please contribute!](http://www.existentialhope.com/please-contribute!/)
 
-* [Existential Angst & Existential Hope ](http://www.existentialhope.com/existential-angst-&-existential-hope.md)
+* [Existential Angst & Existential Hope ](http://www.existentialhope.com/existential-angst-&-existential-hope/)
 
 * [Big History & Big Future ](http://www.existentialhope.com/big-history-&-big-future/)
 
