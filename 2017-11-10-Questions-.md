@@ -6,7 +6,7 @@ permalink: /questions-/
 source-id: 12IrSE0uNhPfaR0HoW2w64n2AKBX5Cs8BDUeAtu0J0LY
 published: true
 ---
-## Good to play with others 
+## Play with others 
 
 <table>
   <tr>
@@ -243,7 +243,29 @@ published: true
 </table>
 
 
-## Good to ask yourself
+## Play with yourself
 
 → thanks to Alexander Pi for sharing, many of the questions are from CFAR
+
+1. What the most important problems in my life?
+
+2. What's the limiting factor on my growth and progress? What's the key resource I have the least of, or the key bottleneck that's preventing me from bringing resources to bear?
+
+3. What do I feel I'm "not allowed to care about", or that I generally don't think about because it feels too big or impossible?
+
+4. If my life were a novel, what would be the obvious next step? Where is the plot dragging, and what do I need to do to move the story forward?
+
+5. What sorts of goals am I already pursuing, but in a bad/convoluted/inefficient/distorted way?
+
+6. Which problems in my are the largest order of magnitude? What changes could I make that would result in a 100x or 1000x increase in either personal satisfaction or positive impact on the world?
+
+7. If I say "Everything in my life is fine, and I'm on track to achieve all of my goals", what feels untrue about that? What catches in my throat, that makes it hard to say that sentence out loud?
+
+8. What feels most alive to me right now? Alternately, what feels most endangered?
+
+9. Try picturing a person identical to you. What are their crucial problems? Or try querying your model of your most trusted advisors: What would they say is your important bottleneck in life?
+
+10. What captures your curiosity? What do you find your attention drawn to?
+
+11. Where do I have more potential? What could be (even more) awesome?
 
