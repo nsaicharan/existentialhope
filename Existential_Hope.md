@@ -6,7 +6,9 @@ permalink: /existential-hope/
 source-id: 1ZSLal4QNfL5-0j8B5tCwJ9UoM6UH20Vu4rJz0LTFGHE
 published: true
 ---
-# **X Hope** a.duettmann@foresight.org
+# **X Hope** 
+
+contribute via [this form] (https://goo.gl/forms/RtY9BrFfSt77nRIs1) or contact me at a.duettmann@foresight.org
 
 ![image alt text]({{ site.url }}/public/fhyf8J2oh5tPfkJvoL3ENg_img_0.jpg)
 
