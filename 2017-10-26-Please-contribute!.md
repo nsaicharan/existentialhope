@@ -29,7 +29,9 @@ Thank you so much to everyone who is contributing already. I'm moved by your ide
 Much gratitude,
 
 [Allison Duettmann](https://www.linkedin.com/in/allison-duettmann-b5021a106/)
+
 [foresight.org](https://foresight.org/)
+
 a.duettmann@foresight.org
 
 If you're curious in dedicating a whole weekend to the most compelling ideas of today, turn them into coherent visions for a better future and get to work on them, please come to our [Vision Weekend](http://foresightvisionweekend2017.strikingly.com/), Dec 2-3 in SF. 
