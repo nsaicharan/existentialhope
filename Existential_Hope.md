@@ -32,7 +32,7 @@ published: true
 
 * [AI & Cyberspace](http://existentialhope.com/ai-&-cyberspace/)
 
-* [Biotechnology & Nanotechnology](existentialhope.com/bio-&-nanotech/)
+* [Biotechnology & Nanotechnology](http://existentialhope.com/bio-&-nanotech/)
 
 * [Living Longer, Better & Smarter](existentialhope.com/living-longer,-better-&-smarter/) 
 
