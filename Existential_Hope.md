@@ -24,7 +24,7 @@ published: true
 
 * [Individual Transhumanism & Collective Cosmism ](http://existentialhope.com/transhumanism-&-cosmism/)
 
-* [Risks ](https://www.google.com/)
+* [Risks ](http://existentialhope.com/risks/)
 
 ## Focus areas  
 
