@@ -6,6 +6,8 @@ permalink: /questions-/
 source-id: 12IrSE0uNhPfaR0HoW2w64n2AKBX5Cs8BDUeAtu0J0LY
 published: true
 ---
+## Good to play with others 
+
 <table>
   <tr>
     <td>Given the choice of anyone in the world, who would you like as a dinner guest?</td>
@@ -240,4 +242,8 @@ published: true
   </tr>
 </table>
 
+
+## Good to ask yourself
+
+→ thanks to Alexander Pi for sharing, many of the questions are from CFAR
 
